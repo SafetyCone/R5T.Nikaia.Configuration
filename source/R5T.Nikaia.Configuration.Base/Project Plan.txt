@@ -1,0 +1,4 @@
+R5T.Nikaia.Configuration.Base - Base library for GitConfiguration types and services.
+
+Goals
+

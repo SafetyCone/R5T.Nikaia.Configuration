@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.Nikaia.Configuration.Suebia\source\R5T.Nikaia.Configuration.Suebia\R5T.Nikaia.Configuration.Suebia.csproj" />
+    <ProjectReference Include="..\R5T.Nikaia.Configuration.Sardinia\R5T.Nikaia.Configuration.Sardinia.csproj" />
+  </ItemGroup>
+
+</Project>

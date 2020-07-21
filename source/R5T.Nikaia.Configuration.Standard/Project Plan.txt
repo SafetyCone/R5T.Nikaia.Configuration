@@ -1,0 +1,4 @@
+R5T.Nikaia.Configuration.Standard - Standard aggregation library for GitConfiguration types and services.
+
+Goals
+

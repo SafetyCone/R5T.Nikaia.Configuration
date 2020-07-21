@@ -1,0 +1,4 @@
+R5T.Nikaia.Configuration.Sardinia - GitConfiguration types, options, and IServiceCollection extensions.
+
+Goals
+
