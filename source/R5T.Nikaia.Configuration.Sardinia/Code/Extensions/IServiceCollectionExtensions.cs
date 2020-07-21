@@ -14,7 +14,7 @@ namespace R5T.Nikaia.Configuration
         public static IServiceCollection AddGitConfiguration(this IServiceCollection services)
         {
             services
-                .Configure<Configuration.Raw.GitConfiguration>()
+                .Configure<Raw.GitConfiguration>()
                 .ConfigureOptions<GitConfigurationConfigureOptions>()
                 ;
 

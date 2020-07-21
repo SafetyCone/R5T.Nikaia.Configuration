@@ -2,6 +2,7 @@
 
 using Microsoft.Extensions.Options;
 
+
 namespace R5T.Nikaia.Configuration
 {
     public class GitExecutableFilePathProvider : IGitExecutableFilePathProvider
