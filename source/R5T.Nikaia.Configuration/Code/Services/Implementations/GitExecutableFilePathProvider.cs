@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 
-using Microsoft.Extensions.Options;
+using Microsoft.Extensions.Options;using R5T.T0064;
 
 
 namespace R5T.Nikaia.Configuration
-{
-    public class GitExecutableFilePathProvider : IGitExecutableFilePathProvider
+{[ServiceImplementationMarker]
+    public class GitExecutableFilePathProvider : IGitExecutableFilePathProvider,IServiceImplementation
     {
         private IOptions<GitConfiguration> GitConfiguration { get; }
 
